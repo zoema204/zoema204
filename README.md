@@ -1,9 +1,10 @@
-## Hello, This is Zoe👩🏻‍💻
+## Hello, This is Zoe👩🏻‍💻 
 
-A Data Analyst Student
-Transforming complex data into insights
-Storyteller | Problem Solver | Visual Artist
-🔍 Seeking roles & growth opportunities
+#### About Me: 
+I'm a passionate data analyst with a deep passion for data and AI. Known for my skills as a storyteller, problem solver, and visual artist, I specialise in transforming complex datasets into clear, actionable insights. 
+
+🔍 Exploring roles & growth opportunities
+🚀 Passionate about open-source contributions on GitHub 
 
 ### MY SKILL SET
 <p align="center">
