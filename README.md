@@ -5,13 +5,13 @@ Transforming complex data into insights
 Storyteller | Problem Solver | Visual Artist
 🔍 Seeking roles & growth opportunities
 
-# MY SKILL SET
+### MY SKILL SET
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py, r, sql, azure, matlab, stata" />
+    <img src="https://skillicons.dev/icons?i=py, r,azure" />
   </a>
 </p>
 
-# MY PROJECTS
+### MY PROJECTS
 
-Thanks for checking out my portfolio, Wishing you a fantastic day!🌟
+Thanks for checking out my portfolio, Wishing you a fantastic day! 🌟
