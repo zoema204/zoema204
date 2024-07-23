@@ -4,7 +4,7 @@
 I'm a passionate data analyst with a deep passion for data and AI. Known for my skills as a storyteller, problem solver, and visual artist, I specialise in transforming complex datasets into clear, actionable insights. 
 
 🔍 Exploring roles & growth opportunities
-🚀 Passionate about open-source contributions on GitHub 
+.🚀 Passionate about open-source contributions on GitHub 
 
 ### MY SKILL SET
 <p align="center">
