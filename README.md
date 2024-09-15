@@ -15,4 +15,7 @@ I'm a passionate data analyst with a deep passion for data and AI. Known for my 
 
 ### MY PROJECTS
 
+#### Data Analytics 
+1. [Trends and Price Predictions in the Australian Rental Market](https://github.com/zoema204/Data-Analytics-Project/blob/main/Analysing%20Trends%20and%20Predicting%20Prices%20in%20the%20Australian%20Rental%20Housing%20Market.pdf)
+2. [Spotify Song Recommendation](https://github.com/zoema204/Data-Analytics-Project/blob/main/Spotify%20Song%20Recommendation%20Using%20Machine%20Learning.pdf)
 ##### Thanks for checking out my portfolio, Wishing you a fantastic day! 🌟
