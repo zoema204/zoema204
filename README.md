@@ -9,7 +9,7 @@ I'm a passionate data analyst with a deep passion for data and AI. Known for my 
 ### MY SKILL SET
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,r,azure,matlab, stata" />
+    <img src="https://skillicons.dev/icons?i=py,r,azure,matlab,stata,mysql,excel" />
   </a>
 </p>
 
